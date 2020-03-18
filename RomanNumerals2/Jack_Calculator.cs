@@ -2,7 +2,7 @@
 
 namespace RomanNumerals
 {
-    public class Calculator
+    public class Jack_Calculator
     {
         public int ConvertRomanNumerals(string romanNumerals)
         {
